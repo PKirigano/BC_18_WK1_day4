@@ -1,0 +1,44 @@
+.fl-left{
+  float: left;
+  margin: 0 auto;
+  clear: right;
+  width: 30%;
+}
+
+.fl-right{
+  float: right;
+  clear: left;
+  margin:  auto;
+  width: 30%;
+}
+
+.fl-right{
+  float: right;
+  clear: both;
+  margin:  auto;
+}
+
+.footer{
+  display: block;
+  margin: 0 auto;
+  border-left: 1%;
+  border-right: 1%;
+  border-bottom: 1%;
+  clear: both;
+  position: relative;
+  offset-block-end: 
+}
+
+li{
+  list-style-type: none;
+  display: inline;
+  margin: 1.5%
+}
+.icon{
+  height: 22;
+  width: 22;
+}
+#google{
+  margin-left: 40%;
+  margin-right: 50%;
+}
